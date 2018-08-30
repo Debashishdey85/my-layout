@@ -1,0 +1,60 @@
+body{
+    margin: 0px;padding: 0px;background-color: #000000;
+}
+*{
+    box-sizing: border-box;
+}
+.container_all{
+    width: 100%;
+}
+.container{
+    width: 960px;margin: 15px auto;background-color: #FFFFFF;padding: 10px;
+}
+.col_1:after, .col_1:before{
+    content: "";display: table;clear: both;
+}
+.col_1{
+    width: 100%;height: px;border: 2px solid #A3AF9B;
+}
+.box_1{
+    width: 20%;height: 80px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_2{
+    width: 40%;height: 80px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_3{
+    width: 20%;height: 80px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_a{
+    width: 28%;height: 208px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_b{
+    width: 24%;height: 156px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_c{
+    width: 28%;height: 208px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_e{
+    width: 28%;height: 200px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_f{
+    width: 24%;height: 272px;border: 3px solid #A3AF9B;float: left;margin: -46px 30px 30px 30px;
+}
+.box_g{
+    width: 28%;height: 200px;border: 3px solid #A3AF9B;float: left;margin: 30px;
+}
+.box_h{
+    width: 47%;height: 40px;border: 3px solid #A3AF9B;float: left;margin: 10px;
+}
+
+.box_i{
+    width: 47%;height: 40px;border: 3px solid #A3AF9B;float: left;margin: 10px;
+}
+.box_j{
+    width: 52%;height: 40px;border: 3px solid #A3AF9B;float: left;margin: 0px 30px 5px 228px;;
+}
+
+
+
+
+
